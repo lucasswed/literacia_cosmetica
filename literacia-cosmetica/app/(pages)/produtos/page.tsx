@@ -94,7 +94,7 @@ export default function Produtos() {
 
                     <div className="bg-gradient-to-br from-[#f5f3f0] to-[#faf8f5] border-l-4 border-[#c94a4a] p-10 rounded-sm shadow-sm">
                         <p className="text-xl text-[#2b2621] leading-relaxed mb-4">
-                            Escolher um produto para rosácea envolve a avaliação cuidadosa de todos os fatores mencionados: composição, ingredientes ativos, ausência de irritantes e adequação ao tipo de pele.
+                            Escolher um produto para rosácea envolve a avaliação cuidadosa de todos os fatores mencionados: composição, ingredientes cosméticamente ativos, ausência de irritantes e adequação ao tipo de pele.
                         </p>
                         <p className="text-lg text-[#6b5b4f] leading-relaxed">
                             Apresentamos 3 produtos bastante utilizados e clinicamente estudados para o cuidado de pele com rosácea, com análise detalhada de sua composição e mecanismo de ação.
@@ -157,7 +157,7 @@ export default function Produtos() {
                                                 className="text-2xl font-bold text-[#2b2621] mb-6"
                                                 style={{ fontFamily: "'Playfair Display', serif" }}
                                             >
-                                                🔬 Principais Ingredientes Ativos
+                                                🔬 Principais Ingredientes Cosméticamente Ativos
                                             </h3>
                                             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                                 {produto.principaisAtivos.map((ativo, idx) => (

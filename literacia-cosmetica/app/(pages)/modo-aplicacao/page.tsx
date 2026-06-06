@@ -66,7 +66,7 @@ export default function Rotina() {
             title: 'Tratamento (Opcional)',
             icon: '🔬',
             details: [
-                'Nesta fase, aplicar ingredientes ativos se necessário',
+                'Nesta fase, aplicar ingredientes cosméticamente ativos se necessário',
                 'Ácido azelaico (se tolerable)',
                 'Niacinamida',
                 'Alóe vera calmante',
