@@ -17,13 +17,6 @@ export default function Home() {
       color: 'from-[#d4a574] to-[#c94a4a)',
     },
     {
-      title: 'Classificação e Subtipos',
-      description: 'Explore os 4 subtipos principais: Eritemato-telangiectásica, Pápulo-pustulosa, Fimatosa e Ocular.',
-      icon: '📋',
-      href: '/classificacao',
-      color: 'from-[#9d8b7e] to-[#6b5b4f)',
-    },
-    {
       title: 'Critérios de Diagnóstico',
       description: 'Aprenda os critérios diagnósticos segundo as directrizes internacionais.',
       icon: '✅',

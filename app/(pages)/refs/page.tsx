@@ -15,7 +15,7 @@ export default function Refs() {
         },
         {
             authors: 'aSuaFarmáciaOnline',
-            year: null,
+            year: 's.d.',
             title: 'ACM Azéane Creme 15% Ácido Azelaico 30ml',
             journal: null,
             volume: null,
@@ -51,7 +51,7 @@ export default function Refs() {
         },
         {
             authors: 'Eau Thermale Avène',
-            year: null,
+            year: 's.d.',
             title: 'Antirougeurs DIA Creme Suavizante antivermelhidão SPF 30',
             journal: null,
             volume: null,
@@ -60,7 +60,7 @@ export default function Refs() {
         },
         {
             authors: 'Farmácias Portuguesas',
-            year: null,
+            year: 's.d.',
             title: 'Rosacure Intensive Emulsão protetora para rosácea SPF30, Bisnaga 30ml',
             journal: null,
             volume: null,
@@ -132,7 +132,7 @@ export default function Refs() {
         },
         {
             authors: 'National Rosacea Society',
-            year: null,
+            year: 's.d.',
             title: 'Managing rosacea: Personal care.',
             journal: null,
             volume: null,

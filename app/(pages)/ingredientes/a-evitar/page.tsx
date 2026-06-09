@@ -6,7 +6,7 @@ export default function IngredientesAEvitar() {
     const alcoholTypes = [
         {
             name: 'Alcohol Denat.',
-            desc: 'Álcool desnaturalizado — o mais comum em cosméticos, rapidamente volátil',
+            desc: 'O mais comum em cosméticos, rapidamente volátil',
         },
         {
             name: 'Ethanol',
@@ -14,15 +14,15 @@ export default function IngredientesAEvitar() {
         },
         {
             name: 'Isopropyl Alcohol',
-            desc: 'Álcool isopropílico — frequentemente usado em produtos de limpeza e esfoliantes',
+            desc: 'Frequentemente usado em produtos de limpeza e esfoliantes',
         },
         {
             name: 'SD Alcohol',
-            desc: 'Álcool solúvel — variantes como SD Alcohol 38-A, SD Alcohol 40, entre outras',
+            desc: 'Variantes como SD Alcohol 38-A, SD Alcohol 40, entre outras',
         },
         {
             name: 'Benzyl Alcohol',
-            desc: 'Álcool benzílico — usado como conservante e solvente, também volátil',
+            desc: 'Usado como conservante e solvente, também volátil',
         },
     ];
 
@@ -32,15 +32,15 @@ export default function IngredientesAEvitar() {
             desc: 'Microesferas de plástico muito comuns em esfoliantes faciais comerciais',
         },
         {
-            name: 'Silica (Sílica)',
+            name: 'Silica',
             desc: 'Partículas de sílica usadas em esfoliantes, com textura abrasiva',
         },
         {
-            name: 'Sodium Chloride (Sal)',
+            name: 'Sodium Chloride',
             desc: 'Cristais de sal em grânulos grossos, que variam em tamanho e causam abrasão desuniforme',
         },
         {
-            name: 'Sucrose (Açúcar)',
+            name: 'Sucrose',
             desc: 'Embora seja percecionado como suave, os cristais em grânulos grossos têm bordas irregulares',
         },
     ];

@@ -5,7 +5,7 @@ import SidebarNav from '@/components/SidebarNav';
 export default function Manifestacoes() {
   const manifestations = [
     {
-      icon: '�',
+      icon: '📏',
       title: 'Espessamento Cutâneo (Alterações Fimatosas)',
       description: 'Em casos mais avançados, a pele pode engrossar e tornar-se irregular, particularmente no nariz, dando origem ao denominado rinofima. Esta apresentação é mais frequente no sexo masculino.',
       severity: 'Grave',

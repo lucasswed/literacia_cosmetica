@@ -80,7 +80,7 @@ export default function OQueEhRosacea() {
                   </p>
                 </div>
                 <div className="bg-gradient-to-br from-[#c94a4a] to-[#a83a3a] text-white p-10 rounded-sm">
-                  <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Playfair Display', serif" }}>📊 Facto Genético</h3>
+                  <h3 className="text-xl font-bold mb-4" style={{ fontFamily: "'Playfair Display', serif" }}>📊 Fator Genético</h3>
                   <p className="text-base leading-relaxed">
                     <strong>Cerca de 50%</strong> das pessoas com rosácea têm um familiar próximo com a mesma condição, confirmando a forte influência genética.
                   </p>
@@ -110,9 +110,10 @@ export default function OQueEhRosacea() {
               </h2>
               <div className="space-y-4">
                 {[
-                  { myth: 'Rosácea é causada por falta de higiene', truth: 'A rosácea é uma doença inflamatória, não relacionada com higiene pessoal.' },
-                  { myth: 'Rosácea é contagiosa', truth: 'A rosácea não se transmite entre pessoas. Não é contagiosa.' },
-                  { myth: 'Rosácea é o mesmo que acne', truth: 'Embora possam parecer semelhantes, são condições diferentes com causas e tratamentos distintos.' },
+                  { myth: 'Não preciso de protetor solar em dias nublados', truth: 'A radiação UV continua a contribuir para inflamação, angiogénese e agravamento da rosácea, pelo que a fotoproteção diária é recomendada.' },
+                  { myth: 'Produtos naturais são sempre mais seguros para pele sensível', truth: 'Na rosácea, "natural" não é sinónimo de melhor tolerância; o mais importante é evitar ingredientes irritantes e escolher fórmulas específicas para pele sensível.' },
+                  { myth: 'A rosácea é apenas estética', truth: 'A rosácea associa-se a várias comorbilidades sistémicas, incluindo doenças cardiovasculares, gastrointestinais e psiquiátricas.' },
+                  { myth: 'Quanto mais produtos, melhor o cuidado', truth: 'A limpeza excessiva e práticas agressivas de cuidado facial associam-se a maior risco e progressão da rosácea.' },
                 ].map((item, idx) => (
                   <div key={idx} className="bg-white border-l-4 border-[#8b3a3a] p-8 rounded-sm shadow-sm">
                     <p className="text-[#8b3a3a] font-bold mb-2">❌ Mito: {item.myth}</p>

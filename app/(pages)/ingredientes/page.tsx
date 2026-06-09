@@ -6,9 +6,9 @@ export default function Ingredientes() {
     const ingredients = [
         {
             icon: '🧴',
-            name: 'Niacinamida',
+            name: 'niacinamide',
             type: 'Ativo',
-            desc: 'A niacinamida é um dos ingredientes mais interessantes para pele com rosácea. Atua como agente anti-inflamatório e ajuda a melhorar a função de barreira cutânea, estimulando a síntese de ceramidas e reduzindo a perda transepidérmica de água.',
+            desc: 'A niacinamide é um dos ingredientes mais interessantes para pele com rosácea. Atua como agente anti-inflamatório e ajuda a melhorar a função de barreira cutânea, estimulando a síntese de ceramidas e reduzindo a perda transepidérmica de água.',
             benefits: [
                 'Ação anti-inflamatória potente',
                 'Melhora a função de barreira cutânea',
@@ -19,9 +19,9 @@ export default function Ingredientes() {
         },
         {
             icon: '🧪',
-            name: 'Ácido Azelaico',
+            name: 'Azelaic acid',
             type: 'Ativo',
-            desc: 'O ácido azelaico é um dos ativos mais relevantes na rosácea, sobretudo na forma pápulo-pustulosa. Tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
+            desc: 'O ácido azelaico tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
             benefits: [
                 'Ação anti-inflamatória',
                 'Propriedade antimicrobiana',
@@ -32,7 +32,7 @@ export default function Ingredientes() {
         },
         {
             icon: '🛡️',
-            name: 'Ceramidas',
+            name: 'Ceramides',
             type: 'Excipiente',
             desc: 'As ceramidas são lípidos naturalmente presentes na camada mais externa da pele e são essenciais para manter a barreira cutânea íntegra. Na rosácea, esta barreira encontra-se frequentemente fragilizada.',
             benefits: [
@@ -45,7 +45,7 @@ export default function Ingredientes() {
         },
         {
             icon: '💧',
-            name: 'Ácido Hialurónico',
+            name: 'Hyaluronic acid',
             type: 'Excipiente',
             desc: 'O ácido hialurónico é um humectante amplamente utilizado por ser capaz de reter água e melhorar a hidratação cutânea. Melhora o conforto e a elasticidade da pele.',
             benefits: [
@@ -73,7 +73,7 @@ export default function Ingredientes() {
             icon: '☀️',
             name: 'Fotoproteção com Filtros Minerais',
             type: 'Protetor Solar',
-            desc: 'A proteção solar é um dos pilares dos cuidados na rosácea. Os filtros minerais (óxido de zinco e dióxido de titânio) tendem a ser melhor tolerados por peles sensíveis.',
+            desc: 'A proteção solar é um dos pilares dos cuidados na rosácea. Os filtros minerais (zinc oxide; titanium dioxide) tendem a ser melhor tolerados por peles sensíveis.',
             benefits: [
                 'Menor potencial irritante',
                 'Protege contra radiação UV',
@@ -87,7 +87,7 @@ export default function Ingredientes() {
     const alcoholTypes = [
         {
             name: 'Alcohol Denat.',
-            desc: 'Álcool desnaturalizado — o mais comum em cosméticos, rapidamente volátil',
+            desc: 'Denatured alcohol — o mais comum em cosméticos, rapidamente volátil',
         },
         {
             name: 'Ethanol',
@@ -95,15 +95,15 @@ export default function Ingredientes() {
         },
         {
             name: 'Isopropyl Alcohol',
-            desc: 'Álcool isopropílico — frequentemente usado em produtos de limpeza e esfoliantes',
+            desc: 'frequentemente usado em produtos de limpeza e esfoliantes',
         },
         {
             name: 'SD Alcohol',
-            desc: 'Álcool solúvel — variantes como SD Alcohol 38-A, SD Alcohol 40, entre outras',
+            desc: 'variantes como SD Alcohol 38-A, SD Alcohol 40, entre outras',
         },
         {
             name: 'Benzyl Alcohol',
-            desc: 'Álcool benzílico — usado como conservante e solvente, também volátil',
+            desc: 'usado como conservante e solvente, também volátil',
         },
     ];
 
@@ -179,7 +179,7 @@ export default function Ingredientes() {
                                 </div>
                                 <div className="p-8 flex-grow flex flex-col">
                                     <p className="text-[#6b5b4f] leading-relaxed mb-6">
-                                        Conheça os melhores ingredientes para pele com rosácea: niacinamida, ácido azelaico, ceramidas. Aprenda como escolher produtos adequados e introduzir ativos gradualmente.
+                                        Conheça os melhores ingredientes para pele com rosácea: niacinamide, ácido azelaico, ceramidas. Aprenda como escolher produtos adequados e introduzir ativos gradualmente.
                                     </p>
                                     <div className="mt-auto">
                                         <p className="text-xs font-bold text-[#c94a4a] mb-3 uppercase">Inclui:</p>

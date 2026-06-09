@@ -140,7 +140,7 @@ export default function GuiaRotulos() {
                             A lista INCI é regulada internacionalmente e fornece informação objetiva e confiável. Diferentemente da publicidade, que pode ser enganosa, a lista INCI é obrigatória e legal.
                         </p>
                         <p className="text-[#2b2621] leading-relaxed">
-                            <strong>Por ordem decrescente:</strong> isto significa que o ingrediente no topo está em maior quantidade. Se um produto promove "10% Niacinamida" mas a niacinamida está no 8º lugar na lista, há discrepância — algo está errado.
+                            <strong>Por ordem decrescente:</strong> isto significa que o ingrediente no topo está em maior quantidade. Se um produto promove "10% niacinamide" mas a niacinamide está no 8º lugar na lista, há discrepância — algo está errado.
                         </p>
                         <p className="text-[#2b2621] leading-relaxed">
                             Utilizar esta informação técnica para decisões de compra transforma-te de consumidor passivo num consumidor informado, capaz de proteger a saúde da tua pele.

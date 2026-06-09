@@ -18,11 +18,6 @@ export default function SidebarNav() {
             icon: '🔴',
         },
         {
-            href: '/classificacao',
-            label: 'Classificação',
-            icon: '📊',
-        },
-        {
             href: '/criterios-diagnosticos',
             label: 'Diagnóstico',
             icon: '⚕️',
@@ -45,7 +40,7 @@ export default function SidebarNav() {
                 className="text-sm font-bold text-[#2b2621] mb-6 uppercase tracking-wide"
                 style={{ fontFamily: "'Playfair Display', serif" }}
             >
-                🌹 Dentro desta Seção
+                🌹 Dentro desta Secção
             </h3>
             <nav className="space-y-2">
                 {navItems.map((item) => {

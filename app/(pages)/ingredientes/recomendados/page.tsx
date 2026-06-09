@@ -6,9 +6,9 @@ export default function IngredientesRecomendados() {
     const ingredients = [
         {
             icon: '🧴',
-            name: 'Niacinamida',
+            name: 'niacinamide',
             type: 'Ativo',
-            desc: 'A niacinamida é um dos ingredientes mais interessantes para pele com rosácea. Atua como agente anti-inflamatório e ajuda a melhorar a função de barreira cutânea, estimulando a síntese de ceramidas e reduzindo a perda transepidérmica de água.',
+            desc: 'A niacinamide é um dos ingredientes mais interessantes para pele com rosácea. Atua como agente anti-inflamatório e ajuda a melhorar a função de barreira cutânea, estimulando a síntese de ceramidas e reduzindo a perda transepidérmica de água.',
             benefits: [
                 'Ação anti-inflamatória potente',
                 'Melhora a função de barreira cutânea',
@@ -19,9 +19,9 @@ export default function IngredientesRecomendados() {
         },
         {
             icon: '🧪',
-            name: 'Ácido Azelaico',
+            name: 'Azelaic acid',
             type: 'Ativo',
-            desc: 'O ácido azelaico é um dos ativos mais relevantes na rosácea, sobretudo na forma pápulo-pustulosa. Tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
+            desc: 'O ácido azelaico tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
             benefits: [
                 'Ação anti-inflamatória',
                 'Propriedade antimicrobiana',
@@ -32,7 +32,7 @@ export default function IngredientesRecomendados() {
         },
         {
             icon: '🛡️',
-            name: 'Ceramidas',
+            name: 'Veramides',
             type: 'Excipiente',
             desc: 'As ceramidas são lípidos naturalmente presentes na camada mais externa da pele e são essenciais para manter a barreira cutânea íntegra. Na rosácea, esta barreira encontra-se frequentemente fragilizada.',
             benefits: [
@@ -45,7 +45,7 @@ export default function IngredientesRecomendados() {
         },
         {
             icon: '💧',
-            name: 'Ácido Hialurónico',
+            name: 'Hyaluronic acid',
             type: 'Excipiente',
             desc: 'O ácido hialurónico é um humectante amplamente utilizado por ser capaz de reter água e melhorar a hidratação cutânea. Melhora o conforto e a elasticidade da pele.',
             benefits: [
@@ -145,7 +145,6 @@ export default function IngredientesRecomendados() {
                             </h3>
                             <ul className="space-y-3">
                                 {[
-                                    'Limpeza suave, sem esfregar',
                                     'Hidratantes para pele sensível',
                                     'Protetor solar diário (SPF elevado)',
                                     'Formulações simples',
@@ -171,9 +170,9 @@ export default function IngredientesRecomendados() {
                             </h3>
                             <ul className="space-y-3">
                                 {[
-                                    'Álcool desnaturado',
+                                    'Denatured alcohol',
                                     'Fragrâncias fortes',
-                                    'Mentol e cânfora',
+                                    'Menthol and camphor',
                                     'Sulfatos agressivos',
                                     'Ácidos fortes',
                                     'Esfoliantes abrasivos',
