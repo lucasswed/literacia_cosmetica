@@ -21,7 +21,7 @@ export default function IngredientesRecomendados() {
             icon: '🧪',
             name: 'Azelaic acid',
             type: 'Ativo',
-            desc: 'O Azelaic acid tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
+            desc: 'Tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
             benefits: [
                 'Ação anti-inflamatória',
                 'Propriedade antimicrobiana',
@@ -34,7 +34,7 @@ export default function IngredientesRecomendados() {
             icon: '🛡️',
             name: 'Ceramides',
             type: 'Excipiente',
-            desc: 'As ceramides são lípidos naturalmente presentes na camada mais externa da pele e são essenciais para manter a barreira cutânea íntegra. Na rosácea, esta barreira encontra-se frequentemente fragilizada.',
+            desc: 'São lípidos naturalmente presentes na camada mais externa da pele e são essenciais para manter a barreira cutânea íntegra. Na rosácea, esta barreira encontra-se frequentemente fragilizada.',
             benefits: [
                 'Restauram coesão da pele',
                 'Melhoram a hidratação',
@@ -47,7 +47,7 @@ export default function IngredientesRecomendados() {
             icon: '💧',
             name: 'Hyaluronic acid',
             type: 'Excipiente',
-            desc: 'O ácido hialurónico é um humectante amplamente utilizado por ser capaz de reter água e melhorar a hidratação cutânea. Melhora o conforto e a elasticidade da pele.',
+            desc: 'Humectante amplamente utilizado por ser capaz de reter água e melhorar a hidratação cutânea. Melhora o conforto e a elasticidade da pele.',
             benefits: [
                 'Retém água na pele',
                 'Melhora hidratação profunda',
@@ -60,7 +60,7 @@ export default function IngredientesRecomendados() {
             icon: '🌿',
             name: 'Aloe Vera',
             type: 'Excipiente',
-            desc: 'A aloe vera é frequentemente incluída em produtos para pele sensível devido às suas propriedades calmantes e hidratantes. Na rosácea, pode ajudar a aliviar a sensação de ardor.',
+            desc: 'Frequentemente incluída em produtos para pele sensível devido às suas propriedades calmantes e hidratantes. Na rosácea, pode ajudar a aliviar a sensação de ardor.',
             benefits: [
                 'Propriedades calmantes',
                 'Ação hidratante',
