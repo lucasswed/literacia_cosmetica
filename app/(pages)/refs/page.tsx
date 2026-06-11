@@ -16,7 +16,7 @@ export default function Refs() {
         {
             authors: 'aSuaFarmáciaOnline',
             year: 's.d.',
-            title: 'ACM Azéane Creme 15% Ácido Azelaico 30ml',
+            title: 'ACM Azéane Creme 15% Azelaic acid 30ml',
             journal: null,
             volume: null,
             pages: null,

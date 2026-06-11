@@ -8,7 +8,7 @@ export default function IngredientesRecomendados() {
             icon: '🧴',
             name: 'niacinamide',
             type: 'Ativo',
-            desc: 'A niacinamide é um dos ingredientes mais interessantes para pele com rosácea. Atua como agente anti-inflamatório e ajuda a melhorar a função de barreira cutânea, estimulando a síntese de ceramidas e reduzindo a perda transepidérmica de água.',
+            desc: 'É um dos ingredientes mais interessantes para pele com rosácea. Atua como agente anti-inflamatório e ajuda a melhorar a função de barreira cutânea, estimulando a síntese de ceramidas e reduzindo a perda transepidérmica de água.',
             benefits: [
                 'Ação anti-inflamatória potente',
                 'Melhora a função de barreira cutânea',
@@ -21,7 +21,7 @@ export default function IngredientesRecomendados() {
             icon: '🧪',
             name: 'Azelaic acid',
             type: 'Ativo',
-            desc: 'O ácido azelaico tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
+            desc: 'O Azelaic acid tem ação anti-inflamatória, antimicrobiana e queratolítica suave.',
             benefits: [
                 'Ação anti-inflamatória',
                 'Propriedade antimicrobiana',
@@ -32,9 +32,9 @@ export default function IngredientesRecomendados() {
         },
         {
             icon: '🛡️',
-            name: 'Veramides',
+            name: 'Ceramides',
             type: 'Excipiente',
-            desc: 'As ceramidas são lípidos naturalmente presentes na camada mais externa da pele e são essenciais para manter a barreira cutânea íntegra. Na rosácea, esta barreira encontra-se frequentemente fragilizada.',
+            desc: 'As ceramides são lípidos naturalmente presentes na camada mais externa da pele e são essenciais para manter a barreira cutânea íntegra. Na rosácea, esta barreira encontra-se frequentemente fragilizada.',
             benefits: [
                 'Restauram coesão da pele',
                 'Melhoram a hidratação',
@@ -246,7 +246,7 @@ export default function IngredientesRecomendados() {
                         ⚕️ Introdução Gradual Recomendada
                     </h2>
                     <p className="text-lg leading-relaxed mb-4">
-                        Alguns ingredientes, como o <strong>ácido azelaico</strong>, podem provocar ligeira sensação de picada inicial, especialmente em pele muito sensibilizada. Por isso, recomenda-se uma introdução gradual e respeitadora do limiar de tolerância individual.
+                        Alguns ingredientes, como o <strong>azelaic acid</strong>, podem provocar ligeira sensação de picada inicial, especialmente em pele muito sensibilizada. Por isso, recomenda-se uma introdução gradual e respeitadora do limiar de tolerância individual.
                     </p>
                     <p className="text-base leading-relaxed">
                         Se apresentar reações adversas, reduza a frequência de aplicação ou consulte um dermatologista para aconselhamento personalizado.
